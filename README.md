@@ -1,20 +1,17 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Mehrban Traders - Website
 
-# Run and deploy your AI Studio app
+Official website for **Mehrban Traders**, premier Indian spice and agro commodities exporters based in Delhi Cantonment, New Delhi.
 
-This contains everything you need to run your app locally.
+## Architecture
+- Completely standalone static website contained entirely within [`index.html`](index.html).
+- Styled using Tailwind CSS (via CDN) and Google Fonts.
+- Pure client-side JavaScript for interactive product search, filtering, technical specification modal views, and direct commercial inquiries.
+- Zero server dependencies, build steps, or backend databases required.
 
-View your app in AI Studio: https://ai.studio/apps/84e07726-94b2-46bc-ba3f-1752d2eca51a
+## Live Deployment
+Deployable directly on **GitHub Pages**, Cloudflare Pages, Netlify, Vercel, or any standard static web hosting simply by serving `index.html`.
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Contact & Export Desk
+- **Facility Address:** 2/26, Kabul Lines, Delhi Cantonment, New Delhi 110010, India
+- **Phone / WhatsApp:** +91 9911262235
+- **Email:** nehabery@yahoo.com
